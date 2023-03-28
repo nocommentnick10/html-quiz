@@ -1,2 +1,2 @@
 # html-quiz
- A quick HTML quiz
+ A quick HTML quiz on JS
